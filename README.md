@@ -44,7 +44,7 @@
 
 - 🌐 [LinkedIn](https://linkedin.com/in/your-link) *(update with your actual link)*
 - 🌐 [Website / Portfolio](https://your-website.com) *(coming soon?)*
-- 📧 Email: your@email.com *(optional)*
+- 📧 Email:techwithpranav4706@gmail.com *(optional)*
 
 ---
 
